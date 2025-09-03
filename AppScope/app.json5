@@ -1,7 +1,7 @@
 {
   "app": {
     "bundleName": "com.rain.hmos.catchcat",
-    "vendor": "CatCHCat",
+    "vendor": "Ra1n Cheung",
     "versionCode": 1000000,
     "versionName": "1.0.0",
     "icon": "$media:layered_image",
